@@ -1,0 +1,39 @@
+{
+	"NNC": { //名品汇
+		"SmallBd": "https://pic2.cnrmall.com/image/5e/e8/5ee8ee3aa6247dfbf38cace65798338e.jpg",
+		"BigBd": "https://pic4.cnrmall.com/image/41/7a/417a8116be21bcc932c1bd599ed6c063.jpg",
+		"ProBd":[
+			{"goodsName":"蔻驰（COACH）女士皮质手提单肩斜挎包波士顿桶包女包中号57521","goodsPrice":1499,"goodsId":5689968,"imageUrl":"https://pic5.cnrmall.com/image/ee/2c/ee2c1e85b9f5b1907096cd82a56cb37b.jpg"},
+			{"goodsName":"蔻驰（COACH）男士竖款单肩包斜挎包男包 54782","goodsPrice":1299,"goodsId":5713808,"imageUrl":"https://pic5.cnrmall.com/image/6d/37/6d379d9d5788e8ce618dd97b31a44426.jpg"},
+			{"goodsName":"HERMES/爱马仕 女式真丝印花炫彩丝巾 H003106S 08","goodsPrice":5500,"goodsId":6998316,"imageUrl":"https://pic5.cnrmall.com/image/2d/a8/2da82313b2ee46e846a34e619e9cff23.jpg"},
+			{"goodsName":"CHANEL/香奈儿 女士淡金色星星款双C耳钉 A88463","goodsPrice":6400,"goodsId":6997089,"imageUrl":"https://pic3.cnrmall.com/image/05/7e/057e642981937798d3fbcf8cd35e64b8.jpg"}
+		]
+	},
+	"BrandSale": { //品牌特卖
+		"SmallBd": "https://pic5.cnrmall.com/image/9a/78/9a78dea46a9e498e2b87f92718d317f6.jpg",
+		"ProBd":[
+			{"goodsName":"雷士照明隐形吊扇灯 货号123162","goodsPrice":799,"goodsId":21711085,"imageUrl":"https://pic3.cnrmall.com/dw/123162/123162_0.jpg"},
+			{"goodsName":"奥力福羽绒冬被央广周年庆特供 货号123177","goodsPrice":379,"goodsId":21018816,"imageUrl":"https://pic2.cnrmall.com/dw/123177/123177_0.jpg"},
+			{"goodsName":"纳美仕麦饭石保温电水壶 货号122444","goodsPrice":298,"goodsId":16229191,"imageUrl":"https://pic5.cnrmall.com/dw/122444/122444_0.jpg"},
+			{"goodsName":"奥力福90%白鸭绒被独供组 货号122699","goodsPrice":399,"goodsId":18197674,"imageUrl":"https://pic2.cnrmall.com/dw/122699/122699_0.jpg"}
+		]
+	},
+	"BdPic": { //广告大图
+		"JZ": "https://pic1.cnrmall.com/image/a0/aa/a0aa676dfc4857fcd59911dfb6ae4ca3.jpg",
+		"ZB": "https://pic5.cnrmall.com/image/30/9f/309f0dd1d17f204f6d8df135c928c078.jpg"
+	},
+	"HotTop10": { //热销top10
+		"SmallBd": "https://pic4.cnrmall.com/image/47/2c/472c39117740341c6614d86a7891fc76.jpg",
+		"BigBd": "https://pic2.cnrmall.com/image/d0/68/d0683d0d74c1255185dd28848c60b675.png",
+		"ProBd":[
+			{"goodsName":"（买一送一，正装）嘉媚乐（CAMENAE）玫瑰水感系列护肤","goodsPrice":240,"goodsId":249632,"imageUrl":"https://pic2.cnrmall.com/image/b8/77/b877223c60298b3801ec6580556b0c2c.jpg"},
+			{"goodsName":"圣蜜莱雅水舒缓套装","goodsPrice":158,"goodsId":356854,"imageUrl":"https://pic2.cnrmall.com/image/0d/6e/0d6e8431734c6ef3966b07759b195fdc.jpg"},
+			{"goodsName":"日本资生堂ANESSA安耐晒小金瓶防晒霜清爽防水防晒乳60ml","goodsPrice":223,"goodsId":175664,"imageUrl":"https://pic5.cnrmall.com/image/6e/b4/6eb4f362c4eaf792f7cbde53f1fd9b8c.jpg"},
+			{"goodsName":"KOSE高丝玻尿酸保湿面膜","goodsPrice":79,"goodsId":182597,"imageUrl":"https://pic2.cnrmall.com/image/22/7d/227dc678fcaef01b1b071fee88fb6356.jpg"},
+			{"goodsName":"太宝宝泰国原装进口高纯乳胶枕 货号122356","goodsPrice":399,"goodsId":16864930,"imageUrl":"https://pic4.cnrmall.com/dw/122356/122356_0.jpg"},
+			{"goodsName":"蒲尔菲富氢健康养生水杯 货号123398","goodsPrice":998,"goodsId":22604306,"imageUrl":"https://pic5.cnrmall.com/dw/123398/123398_0.jpg"},
+			{"goodsName":"BalzoHome便捷果汁料理杯 货号122313","goodsPrice":298,"goodsId":18379740,"imageUrl":"https://pic1.cnrmall.com/dw/122313/122313_0.jpg"},
+			{"goodsName":"智天然老树核桃仁秒杀组 货号121664","goodsPrice":199,"goodsId":15304861,"imageUrl":"https://pic4.cnrmall.com/dw/121664/121664_0.jpg"}
+		]
+	}
+}

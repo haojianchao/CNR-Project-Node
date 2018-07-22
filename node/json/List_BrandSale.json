@@ -1,0 +1,58 @@
+{
+	"TopBd": "https://pic1.cnrmall.com/image/b2/11/b211c3ae1dc915e3db31456c09430750.jpg",
+	"SecBd": "https://pic5.cnrmall.com/image/74/d1/74d10097da14c4fdece51ac7eeacabd5.png",
+	"ThrBd": {
+		"BigBd": "https://pic3.cnrmall.com/image/37/46/374674708b637bdb840fb92872273d25.jpg",
+		"ProBd": [
+			{"goodsName":"蔻驰（COACH）女士皮质手提单肩斜挎包波士顿桶包女包中号57521","goodsPrice":1499,"goodsId":5689968,"imageUrl":"https://pic3.cnrmall.com/image/ee/2c/ee2c1e85b9f5b1907096cd82a56cb37b.jpg"},
+			{"goodsName":"蔻驰（COACH）男士竖款单肩包斜挎包男包 54782","goodsPrice":1299,"goodsId":5713808,"imageUrl":"https://pic5.cnrmall.com/image/6d/37/6d379d9d5788e8ce618dd97b31a44426.jpg"},
+			{"goodsName":"HERMES/爱马仕 女式真丝印花炫彩丝巾 H003106S 08","goodsPrice":5500,"goodsId":6998316,"imageUrl":"https://pic2.cnrmall.com/image/2d/a8/2da82313b2ee46e846a34e619e9cff23.jpg"},
+			{"goodsName":"CHANEL/香奈儿 女士淡金色星星款双C耳钉 A88463","goodsPrice":6400,"goodsId":6997089,"imageUrl":"https://pic3.cnrmall.com/image/05/7e/057e642981937798d3fbcf8cd35e64b8.jpg"}
+		]
+	},
+	"FourBd": {
+		"BigBd": "https://pic1.cnrmall.com/image/6a/76/6a76212dc9de5bcf281532c5267cef42.jpg",
+		"ProBd": [
+			{"goodsName":"圣洁康 洗衣机清洗剂 滚筒洗衣机槽清洁剂家用全自动内筒去污清洁粉 2盒8袋装","goodsPrice":19.9,"goodsId":217785,"imageUrl":"https://pic2.cnrmall.com/image/b9/f1/b9f19e1503881a4d80fddb2143733425.jpg"},
+			{"goodsName":"圣洁康羽绒服干洗剂免水洗海绵头泡沫型棉服布艺清洁剂洗衣液2瓶","goodsPrice":19.9,"goodsId":506168,"imageUrl":"https://pic5.cnrmall.com/image/88/ca/88ca50746980c9ed79dbcf24bc57e324.jpg"},
+			{"goodsName":"圣洁康免手洗海绵拖把家用胶棉吸水拖把头对折式挤水拖把地拖拖布","goodsPrice":34.9,"goodsId":257955,"imageUrl":"https://pic3.cnrmall.com/image/e4/b3/e4b38992a0f1307f35941707a5e4a724.jpg"},
+			{"goodsName":"圣洁康活性炭包 新房除甲醛家用装修除味活性炭去甲醛活性碳2000g","goodsPrice":54,"goodsId":190359,"imageUrl":"https://pic3.cnrmall.com/image/2f/00/2f006286f1593f80ba3da08b14eb2708.jpg"}
+		]
+	},
+	"FiveBd": {
+		"BigBd": "https://pic4.cnrmall.com/image/5c/d6/5cd67bbb4f7e924816bf549cea0331cc.jpg",
+		"ProBd": [
+			{"goodsName":"燕之坊 薏米红豆粉 30罐/箱","goodsPrice":396,"goodsId":94872,"imageUrl":"https://pic1.cnrmall.com/image/2c/7f/2c7f3a3b52f8b6229efb839cff829356.jpg"},
+			{"goodsName":"燕之坊 益元八宝禅食","goodsPrice":49.8,"goodsId":94963,"imageUrl":"https://pic5.cnrmall.com/image/51/6e/516e8878066c551ccf37b2f7a7bdfb14.jpg"},
+			{"goodsName":"燕之坊 黑芝麻禅食","goodsPrice":49.8,"goodsId":92879,"imageUrl":"https://pic4.cnrmall.com/image/b9/7b/b97b592d29f9a1278f103971bb80666c.jpg"},
+			{"goodsName":"燕之坊 核桃芝麻禅食","goodsPrice":46.8,"goodsId":92799,"imageUrl":"https://pic1.cnrmall.com/image/b7/4a/b74af9ec923fbc42b0d2c1d78f0db8fc.jpg"}
+		]
+	},
+	"SixBd": {
+		"BigBd": "https://pic4.cnrmall.com/image/d9/f4/d9f43e9161bf5690d55d636ecd29f150.jpg",
+		"ProBd": [
+			{"goodsName":"【购买就送冰丝凉席150*200CM】VIPLIFE家纺 全棉被面空调被夏被纯棉夏凉被","goodsPrice":229,"goodsId":7603613,"imageUrl":"https://pic1.cnrmall.com/image/d1/95/d195792bb04e174dc1c373a808210ebd.jpg"},
+			{"goodsName":"VIPLIFE高端全棉四件套 纯棉活性印染高支高密床单被套-环游世界","goodsPrice":266,"goodsId":299951,"imageUrl":"https://pic5.cnrmall.com/image/96/db/96db47d7be9eca5229755b61112466f0.jpg"},
+			{"goodsName":"VIPLIFE家纺 优雅田园风全棉四件套纯棉床单被套床品套件","goodsPrice":238,"goodsId":7721541,"imageUrl":"https://pic2.cnrmall.com/image/00/84/00849101dd52d2a83fd1cdb312706e62.jpg"},
+			{"goodsName":"VIPLIFE高端全棉四件套 纯棉床单被套200*230CM","goodsPrice":236,"goodsId":268589,"imageUrl":"https://pic5.cnrmall.com/image/60/9c/609c9e2084f1cd0b1a0e376f8db22197.jpg"}
+		]
+	},
+	"SevBd": {
+		"BigBd": "https://pic4.cnrmall.com/image/3b/41/3b41a82bbd49e93dd15068de361ba434.jpg",
+		"ProBd": [
+			{"goodsName":"38°春夏秋冬红特酒 浓香型白酒 宜宾五粮液股份有限公司出品 ","goodsPrice":69,"goodsId":6141619,"imageUrl":"https://pic3.cnrmall.com/image/f1/89/f189602f3d8c1e7126e0810cbccba69b.jpg"},
+			{"goodsName":"宜宾五粮液股份有限公司出品 52度五龙宾红樽 500ml","goodsPrice":499,"goodsId":6161047,"imageUrl":"https://pic4.cnrmall.com/image/0a/b8/0ab8eb89db959e3e54284773351c8da3.jpg"},
+			{"goodsName":"52度浓香型华彩人生酒 30典藏 华彩蓝","goodsPrice":98,"goodsId":3308577,"imageUrl":"https://pic3.cnrmall.com/image/9b/a2/9ba2948a2872044737a7dc09fd68476e.jpg"},
+			{"goodsName":"52度茅台醇香酒 浓香型 白酒 500ml ","goodsPrice":399,"goodsId":6931471,"imageUrl":"https://pic4.cnrmall.com/image/46/0e/460ee34016072edae9c5a7d4652fd05b.jpg"}
+		]
+	},
+	"EigBd": {
+		"BigBd": "https://pic1.cnrmall.com/image/65/3d/653d4195e7b62c42270ecadc25411f92.jpg",
+		"ProBd": [
+			{"goodsName":"荣事达（Royalstar）电吹风机RC-A129 双档调节","goodsPrice":58,"goodsId":173768,"imageUrl":"https://pic2.cnrmall.com/image/88/08/880881b96475e8a6d455fcadf927bb48.jpg"},
+			{"goodsName":"荣事达（Royalstar）原汁机RZ-268F古法研磨 慢速挤压","goodsPrice":798,"goodsId":193783,"imageUrl":"https://pic5.cnrmall.com/image/49/8e/498e345b279e26bcb6f79c3792829be9.jpg"},
+			{"goodsName":"荣事达（Royalstar）自动套装加水茶宝GM12A1精准控温 食品材质","goodsPrice":278,"goodsId":186076,"imageUrl":"https://pic4.cnrmall.com/image/b5/cf/b5cf9130b6340df230add45cc37e9307.jpg"},
+			{"goodsName":"荣事达（Royalstar）韩式电火锅HG1611L大容量 鸳鸯锅 全身可水洗","goodsPrice":259,"goodsId":179744,"imageUrl":"https://pic3.cnrmall.com/image/be/53/be539fc14001610c5fc0d82bd8ef26c5.jpg"}
+		]
+	}
+}

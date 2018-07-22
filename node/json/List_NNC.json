@@ -1,0 +1,31 @@
+[
+	{
+		"TopBd": "https://pic2.cnrmall.com/image/23/07/2307b23c958611aeeb3ae358f20c2d1a.jpg",
+		"SecBd": [
+			{"imageUrl": "https://pic4.cnrmall.com/image/24/8b/248b7d57629771a2711cb5fde57f1cf5.jpg"},
+			{"imageUrl": "https://pic3.cnrmall.com/image/32/57/3257df268b44c04201d617b0a05d6ebe.jpg"},
+			{"imageUrl": "https://pic5.cnrmall.com/image/84/55/8455af05eafd978fa1302bc566ce9004.jpg"},
+			{"imageUrl": "https://pic4.cnrmall.com/image/1b/89/1b898af78b73e127d20b36180c8461b8.jpg"},
+			{"imageUrl": "https://pic3.cnrmall.com/image/20/fa/20fa584e9324e66ee6ae3acc7923bd9f.jpg"},
+			{"imageUrl": "https://pic2.cnrmall.com/image/9c/cc/9ccc1f4ccc626ffa4b569fccca683465.jpg"},
+			{"imageUrl": "https://pic5.cnrmall.com/image/db/3b/db3b7240881ad15d4312f21344583ad3.jpg"}
+		],
+		"ThrBd": {
+			"SmallBd": "https://pic1.cnrmall.com/image/9d/a0/9da0d5d580d268ecb5f8c0b7cc9c7186.jpg",
+			"ProBd": [
+				{"goodsName":"MiuMiu缪缪 女式灰色镜框透明镜片金色镜架光学眼镜 51PV USR1O1 50","goodsPrice":1676,"goodsId":3136893,"imageUrl":"https://pic2.cnrmall.com/image/77/b7/77b7f1a26ea6b9b06d569e075713e4fe.jpg"},
+				{"goodsName":"CARTIER/卡地亚 LOVE系列18K金镶嵌宝石水晶指环戒指B4090500 预售","goodsPrice":23100,"goodsId":2640154,"imageUrl":"https://pic3.cnrmall.com/image/b5/0c/b50cc12d48aff3272de206e6bd0380bc.jpg"},
+				{"goodsName":"BURBERRY/博柏利 中性款式Canvas格纹皮革织物装饰双肩包黑色","goodsPrice":4824,"goodsId":2414417,"imageUrl":"https://pic4.cnrmall.com/image/e4/cb/e4cbdc0881c34ed069e9cfe0b7c83081.jpg"},
+				{"goodsName":"BVLGARI/宝格丽 粉色女士牛皮单蛇头双层手环","goodsPrice":2722,"goodsId":2636911,"imageUrl":"https://pic1.cnrmall.com/image/11/43/1143e6c821d4670e181315d2deb2097a.jpg"}
+			]
+		},
+		"FourBd": {
+			"SmallBd": "https://pic2.cnrmall.com/image/2f/bc/2fbc893e01bff9fee2d7b7a6cdc46547.jpg",
+			"ProBd": [
+				{"goodsName":"施华洛世奇Swarovski女士耳环5017145","goodsPrice":818,"goodsId":6193168,"imageUrl":"https://pic5.cnrmall.com/image/76/d0/76d018ba3876ea24450ad3478858f090.jpg"},
+				{"goodsName":"施华洛世奇Swarovski女士黑天鹅项链链坠5347330","goodsPrice":699,"goodsId":6101583,"imageUrl":"https://pic4.cnrmall.com/image/a4/9f/a49f853ffedf5009bd15257f8f8aa81d.jpg"},
+				{"goodsName":"蔻驰（coach）女士新款PVC手提单肩斜挎迷你小号 55465","goodsPrice":1199,"goodsId":5830793,"imageUrl":"https://pic2.cnrmall.com/image/e9/06/e906b77525bd0b88bcd93b357e7fc871.jpg"}
+			]
+		}
+	}
+]
